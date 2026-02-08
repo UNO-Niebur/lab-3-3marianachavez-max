@@ -1,7 +1,9 @@
 #RPS.py
-#Name:
-#Date:
-#Assignment:
+#Name: Mariana Chavez 
+#Date: 02.05.2026
+#Assignment: Lab 3
+#Purpose: practice with boolean logic, conditional statements, loops (for and while), program flow control
+
 import random
 
 def main():
